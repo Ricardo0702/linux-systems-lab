@@ -53,7 +53,6 @@ Different ownership and permission scenarios were explored using dedicated labor
 
 | Field | Value |
 |-------|-------|
-| Difficulty | Beginner |
 | Estimated Time | ~10 hours |
 | Environment | Ubuntu Server 26.04 LTS |
 | Tools | Bash, SSH, VSCode |

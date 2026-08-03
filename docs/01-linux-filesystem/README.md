@@ -48,7 +48,6 @@ Several fundamental inspection tools were used to understand the operating syste
 
 | Field | Value |
 |-------|-------|
-| Difficulty | Beginner |
 | Estimated Time | ~8 hours |
 | Environment | Ubuntu Server 26.04 LTS |
 | Tools | Bash, SSH, VSCode |
