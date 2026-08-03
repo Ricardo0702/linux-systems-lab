@@ -20,3 +20,10 @@ This laboratory is not based on isolated tutorials or disconnected exercises.
 Every topic is introduced through a realistic engineering scenario, explored from first principles, implemented in a hands-on environment and finally documented following professional standards.
 
 The goal is not simply to learn Linux commands, but to understand how Linux systems are designed, administered and maintained in real-world environments.
+
+## Completed Projects
+
+- ✅ Project 01 — Linux Filesystem Anatomy
+- ✅ Project 02 — Users, Groups and Permissions
+- ✅ Project 03 — Processes and Services
+- ✅ Project 04 — Package Management and Software Installation
