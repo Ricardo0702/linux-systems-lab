@@ -27,3 +27,10 @@ The goal is not simply to learn Linux commands, but to understand how Linux syst
 - ✅ Project 02 — Users, Groups and Permissions
 - ✅ Project 03 — Processes and Services
 - ✅ Project 04 — Package Management and Software Installation
+## Completed Projects
+
+- ✅ Project 01 — Linux Filesystem Anatomy
+- ✅ Project 02 — Users, Groups and Permissions
+- ✅ Project 03 — Processes and Services
+- ✅ Project 04 — Package Management and Software Installation
+- ✅ Project 05 — Linux Networking Fundamentals
