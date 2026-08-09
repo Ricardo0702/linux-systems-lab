@@ -1,4 +1,4 @@
-# Linux Sistems Lab
+# Linux Systems Lab
 A hands-on laboratory focused on Linux systems administration, networking, infrastructure and automation.
 
 This repository documents the journey of building and managing a professional Linux laboratory through real-world projects, following engineering best practices and documenting every step of the learning process.
@@ -23,14 +23,12 @@ The goal is not simply to learn Linux commands, but to understand how Linux syst
 
 ## Completed Projects
 
-- ✅ Project 01 — Linux Filesystem Anatomy
-- ✅ Project 02 — Users, Groups and Permissions
-- ✅ Project 03 — Processes and Services
-- ✅ Project 04 — Package Management and Software Installation
-## Completed Projects
+- ✅ [Project 01 — Linux Filesystem Anatomy](docs/01-linux-filesystem)
+- ✅ [Project 02 — Users, Groups and Permissions](docs/02-users-and-permissions)
+- ✅ [Project 03 — Processes and Services](docs/03-processes-and-services)
+- ✅ [Project 04 — Package Management and Software Installation](docs/04-package-management-and-software-installation)
+- ✅ [Project 05 — Linux Networking Fundamentals](docs/05-linux-networking-fundamentals)
 
-- ✅ Project 01 — Linux Filesystem Anatomy
-- ✅ Project 02 — Users, Groups and Permissions
-- ✅ Project 03 — Processes and Services
-- ✅ Project 04 — Package Management and Software Installation
-- ✅ Project 05 — Linux Networking Fundamentals
+## Capstone Projects
+
+- ✅ [Capstone Project 01 — Linux Server Assessment](docs/capstones/capstone-01-linux-server-assessment)

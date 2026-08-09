@@ -51,13 +51,13 @@ capstone-01-linux-server-assessment/
 ├── README.md
 ├── scenario.md
 ├── assessment-report.md
-├── artifacts/
-│   ├── filesystem-assessment.md
-│   ├── users-assessment.md
-│   ├── services-assessment.md
-│   ├── packages-assessment.md
-│   └── networking-assessment.md
-└── assets/
+└── artifacts/
+    ├── filesystem-assessment.md
+    ├── users-assessment.md
+    ├── services-assessment.md
+    ├── packages-assessment.md
+    └── networking-assessment.md
+
 ```
 
 ### Documentation
@@ -74,10 +74,6 @@ The [`artifacts`](artifacts/) directory contains focused investigation notes for
 * the relevant output;
 * the technical interpretation;
 * a quick command reference.
-
-### Visual Resources
-
-The [`assets`](assets/) directory is reserved for diagrams and visual resources that support the assessment methodology.
 
 ## Projects Integrated
 
