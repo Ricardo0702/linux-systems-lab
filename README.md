@@ -28,6 +28,7 @@ The goal is not simply to learn Linux commands, but to understand how Linux syst
 - ✅ [Project 03 — Processes and Services](docs/03-processes-and-services)
 - ✅ [Project 04 — Package Management and Software Installation](docs/04-package-management-and-software-installation)
 - ✅ [Project 05 — Linux Networking Fundamentals](docs/05-linux-networking-fundamentals)
+- ✅ [Project 06 — Storage aand Filesystems](docs/06-storage-and-filesystems)
 
 ## Capstone Projects
 
