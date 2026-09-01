@@ -21,14 +21,18 @@ Every topic is introduced through a realistic engineering scenario, explored fro
 
 The goal is not simply to learn Linux commands, but to understand how Linux systems are designed, administered and maintained in real-world environments.
 
+## Foundations
+
+- ✅ [Project 01 — Linux Filesystem Anatomy](docs/foundations/01-linux-filesystem)
+- ✅ [Project 02 — Users, Groups and Permissions](docs/foundations/02-users-and-permissions)
+- ✅ [Project 03 — Processes and Services](docs/foundations/03-processes-and-services)
+- ✅ [Project 04 — Package Management and Software Installation](docs/foundations/04-package-management-and-software-installation)
+- ✅ [Project 05 — Linux Networking Fundamentals](docs/foundations/05-linux-networking-fundamentals)
+- ✅ [Project 06 — Storage aand Filesystems](docs/foundations/06-storage-and-filesystems)
+
 ## Completed Projects
 
-- ✅ [Project 01 — Linux Filesystem Anatomy](docs/01-linux-filesystem)
-- ✅ [Project 02 — Users, Groups and Permissions](docs/02-users-and-permissions)
-- ✅ [Project 03 — Processes and Services](docs/03-processes-and-services)
-- ✅ [Project 04 — Package Management and Software Installation](docs/04-package-management-and-software-installation)
-- ✅ [Project 05 — Linux Networking Fundamentals](docs/05-linux-networking-fundamentals)
-- ✅ [Project 06 — Storage aand Filesystems](docs/06-storage-and-filesystems)
+- ✅ [Project 07 — Bash Scripting Fundamentals](docs/projects/07-bash-scripting-fundamentals)
 
 ## Capstone Projects
 
