@@ -13,7 +13,7 @@ The project also includes a reusable Bash Cheat Sheet that serves as a quick ref
 ---
 
 ## Project Artifacts
-
+ 
 This project includes the following implementation and supporting documentation:
 
 | Artifact | Description |
