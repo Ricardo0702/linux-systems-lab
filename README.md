@@ -33,6 +33,7 @@ The goal is not simply to learn Linux commands, but to understand how Linux syst
 ## Completed Projects
 
 - ✅ [Project 07 — Bash Scripting Fundamentals](docs/projects/07-bash-scripting-fundamentals)
+- ✅ [Project 08 — Logging and Troubleshooting](docs/projects/08-logging-and-troubleshooting)
 
 ## Capstone Projects
 
